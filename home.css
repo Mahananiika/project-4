@@ -1,0 +1,18 @@
+.carousel-item{
+    height:500px;
+}
+
+.carousel-item img{
+    margin-top: -200px;
+}
+.carousel-caption{
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.carousel-caption h1{
+    font-family: 'Lemonada', cursive;
+    margin-top: 100px;
+    text-align: left;
+}
