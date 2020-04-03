@@ -2,6 +2,10 @@
     height:500px;
 }
 
+.navbar-collapse{
+    margin-inline-end: 320px;
+}
+
 .navbar{
     background-color: white;
 }
@@ -9,6 +13,7 @@
 .carousel-item img{
     margin-top: -200px;
 }
+
 .carousel-caption{
     font-family: 'Dancing Script', cursive;
     margin-bottom: 60px;
@@ -20,3 +25,27 @@
     margin-top: 100px;
     text-align: left;
 }
+
+.content-img{
+    height: 500px;
+}
+
+.text1{
+    margin-top: -400px;
+    font-family: 'Dancing Script', cursive;
+    margin-left: 50px;
+    font-size: 80px;
+     
+}
+
+.text2{
+    
+    font-family: 'Dancing Script', cursive;
+    margin-left: 50px;
+    font-size: 35px
+    }
+
+.btn-warning{
+    margin-left: 500px;
+}
+
