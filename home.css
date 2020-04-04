@@ -26,9 +26,7 @@
     text-align: left;
 }
 
-.content-img{
-    height: 500px;
-}
+
 
 .text1{
     margin-top: -400px;
@@ -48,4 +46,13 @@
 .btn-warning{
     margin-left: 500px;
 }
+
+/* .text{
+    font-family: 'Dancing Script', cursive;
+    margin-top: -800px;
+    margin-left: 300px;
+    color: black;
+    font-size: 80px;
+    
+} */
 
